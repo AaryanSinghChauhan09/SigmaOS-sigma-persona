@@ -3,7 +3,7 @@ name = "SigmaOS-sigma-persona"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "sigma-persona component"
+description = "SigmaOS sigma-persona - modular Rust crate for the SigmaOS system"
 upstream = []
 
 [contract]
